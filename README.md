@@ -1,4 +1,4 @@
-# # CalAI - Complete AI-Powered Health & Nutrition Platform
+# # Arogya Ai- Complete AI-Powered Health & Nutrition Platform
 
 A comprehensive health tracking platform with AI-powered meal analysis, biometric monitoring, AI doctor consultations, and automated workflows.
 
